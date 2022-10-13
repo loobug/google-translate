@@ -1,7 +1,6 @@
-:: Copyright (c)2022 https://bookfere.com
+:: Copyright (c)2022 https://afosne.com for afosne
 :: This is a batch script for fixing Google Translate and making it available
 :: in the Chinese mainland. If you experience any problem, visit the page below:
-:: https://bookfere.com/post/1020.html
 
 @echo off
 setlocal enabledelayedexpansion
